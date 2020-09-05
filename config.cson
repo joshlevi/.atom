@@ -1,0 +1,15 @@
+"*":
+  "atom-material-ui":
+    colors:
+      genAccent: true
+    tabs:
+      noTabMinWidth: true
+  core:
+    telemetryConsent: "limited"
+    uriHandlerRegistration: "always"
+  editor:
+    softTabs: false
+  "exception-reporting":
+    userId: "ddd0b6f5-075e-4f92-b89f-a99eaf8692e8"
+  welcome:
+    showOnStartup: false
