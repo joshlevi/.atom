@@ -4,8 +4,16 @@
       genAccent: true
     tabs:
       noTabMinWidth: true
+      tintedTabBar: true
+    ui:
+      panelContrast: true
+      panelShadows: true
   core:
     telemetryConsent: "limited"
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
     uriHandlerRegistration: "always"
   editor:
     softTabs: false
